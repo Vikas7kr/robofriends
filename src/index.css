@@ -1,0 +1,6 @@
+body,html{
+	margin:15 px;
+	padding:20 px;
+	font-family:san-serif;
+	background:linear-gradient(to right, rgba(7, 27, 82,1) 0%, rgba(0, 128, 128,1) 100%);
+}
